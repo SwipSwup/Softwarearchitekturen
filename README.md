@@ -4,10 +4,9 @@
 Mayer Lukas, Radic Ivo, Sarzi Sartori Nicoletta, Veigel David
 
 ## Contents
-- [Overview](Docs/1_Overview)
-    - [Requirements](Docs/1_Overview#requirements)
-    - [Quality Goals](Docs/1_Overview#quality-goals)
-    - [Stakeholder](Docs/1_Overview#stakeholder)
-- [Constraints](Docs/2_Constraints)
-  - [Constraints](Docs/2_Constraints#constraints)
-  - [Business Context](Docs/2_Constraints#business-context)
+- [Overview](arc42/01_introduction-and-goals.md)
+    - [Requirements](arc42/01_introduction-and-goals.md#requirements)
+    - [Quality Goals](arc42/01_introduction-and-goals.md#quality-goals)
+    - [Stakeholder](arc42/01_introduction-and-goals.md#stakeholder)
+- [Constraints](arc42/02_constraints.md)
+- [Context](arc42/03_context.md)
