@@ -10,3 +10,6 @@ Mayer Lukas, Radic Ivo, Sarzi Sartori Nicoletta, Veigel David
     - [Stakeholder](arc42/01_introduction-and-goals.md#stakeholder)
 - [Constraints](arc42/02_constraints.md)
 - [Context](arc42/03_context.md)
+- [Solution Strategies](arc42/04_solution_strategies.md)
+  - [Crosscutting Concepts](arc42/04_solution_strategies.md#crosscutting-concepts)
+  - [Decisions](arc42/04_solution_strategies.md#decisions)
