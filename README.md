@@ -14,4 +14,5 @@ Mayer Lukas, Radic Ivo, Sarzi Sartori Nicoletta, Veigel David
 - [System Scope and Context](arc42/03.%20Context%20and%20scope.md)
 - [Solution Strategy](arc42/04.%20Solution%20Strategy.md)
 - [Building Block View](arc42/05.%20Building%20Block%20View.md)
+- [Runtime View](arc42/06.%20Runtime%20View.md)
 - 
