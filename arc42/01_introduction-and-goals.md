@@ -1,6 +1,9 @@
+\newpage
+
 Introduction and Goals
 ======================
 [//]: # (David)
+
 Requirements Overview
 ---------------------
 The main purpose of RideShare is to provide a convenient, affordable, and sustainable transportation solution by connecting passengers with nearby drivers for shared rides.​

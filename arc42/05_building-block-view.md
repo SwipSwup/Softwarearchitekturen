@@ -1,9 +1,11 @@
+\newpage
+
 # Building Block View
 
 ## White Box: Overall System
 
 **Overview Diagram**  
-![Level 1](images/building_block_view_level1.jpg)
+![Level 1](Images/building_block_view_level1.jpg)
 
 **Motivation**  
 At the top level, the system is divided into four key building blocks:
@@ -26,7 +28,7 @@ This clear separation of concerns supports scalability and simplifies maintenanc
 ## White Box: Ride Coordinator
 
 **Overview Diagram**  
-![Level 2](images/building_block_view_level2.jpg)
+![Level 2](Images/building_block_view_level2.jpg)
 
 **Motivation**  
 The Ride Coordinator is further decomposed into focused services:
@@ -49,7 +51,7 @@ This modularization allows independent scaling and development.
 ## White Box: Matchmaking
 
 **Overview Diagram**  
-![Level 3](images/building_block_view_level3.jpg)
+![Level 3](Images/building_block_view_level3.jpg)
 
 **Motivation**  
 The Matchmaking component is detailed to show its internal structure for optimal driver-passenger pairing.  

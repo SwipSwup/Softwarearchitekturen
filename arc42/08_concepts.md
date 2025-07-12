@@ -1,4 +1,6 @@
-﻿Cross-cutting Concepts
+﻿\newpage
+
+Cross-cutting Concepts
 ======================
 [//]: # (Ivo)
 Component-based Microservice Architecture

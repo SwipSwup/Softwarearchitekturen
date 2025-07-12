@@ -1,3 +1,5 @@
+\newpage
+
 Architecture Constraints
 ========================
 [//]: # (David)
